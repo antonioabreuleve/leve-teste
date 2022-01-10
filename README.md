@@ -1,6 +1,6 @@
 # pipeline-example-go
 
-This is a sample golang project to demonstrate the integration with rancher pipeline.
+Integração do Rancher com Pipeline
 
 ## Building
 
@@ -25,4 +25,10 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+# Referências
+https://docs.docker.com/language/golang/build-images/
+https://gowebexamples.com/hello-world/
+https://github.com/GoogleCloudPlatform/golang-samples/blob/main/endpoints/getting-started/deployment.yaml
+https://github.com/rancher/pipeline-example-php/blob/master/.rancher-pipeline.yml
 
